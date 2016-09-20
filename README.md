@@ -3,6 +3,9 @@ Enables manual control of the fan of the cpu-cooler on toshiba satellite L855-11
 
 > THIS IS A MODIFICATION OF THE [fanBOOST v1.00] (http://forum.notebookreview.com/threads/possible-to-control-toshiba-laptop-fan-speed-with-rw-everythin.596408/#post-9290771) made by nem0
 
+
+__Project canceled, we continue here (https://github.com/nextLVL/fanBOOST-v2)__
+
 ## Use tutorial
 1. Download and install [rw-read and write utility x32] (http://rweverything.com/download/).
 2. Execute fanBOOST.exe with administrator permissions.
